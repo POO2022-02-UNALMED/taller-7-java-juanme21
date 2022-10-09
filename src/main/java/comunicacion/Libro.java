@@ -54,11 +54,11 @@ public class Libro extends Escrito {
 		this.editor = editor;
 	}
 
-	public String getedicion() {
+	public String getEdicion() {
 		return edicion;
 	}
 
-	public void setedicion(String edicion) {
+	public void setEdicion(String edicion) {
 		this.edicion = edicion;
 	}
 
