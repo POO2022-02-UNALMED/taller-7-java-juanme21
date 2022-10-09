@@ -46,11 +46,11 @@ public class Libro extends Escrito {
 		this.co_autor = co_autor;
 	}
 
-	public String geteditorial() {
+	public String getEditorial() {
 		return editorial;
 	}
 
-	public void seteditorial(String editorial) {
+	public void setEditorial(String editorial) {
 		this.editorial = editorial;
 	}
 
