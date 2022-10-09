@@ -32,7 +32,7 @@ public class Periodico extends Escrito {
 		r += this.getAutor() + "\n";
 		r += this.getPaginas()+ "\n";
 		r += this.fecha + "\n";
-		r += this.primicia + "\n";
+		r += this.primicia;
 		return r;
 	}
 

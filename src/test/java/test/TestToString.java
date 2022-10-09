@@ -97,6 +97,6 @@ public class TestToString {
 		if (tesis.toString().equals(comp)) {
 			ok = true;
 		}
-		assertTrue(ok, "Hay un problema en el metodo toString de la clase Tesis"+tesis.toString()+comp);
+		assertTrue(ok, "Hay un problema en el metodo toString de la clase Tesis");
     }
 }
